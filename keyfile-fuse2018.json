@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mr-sinister",
+  "private_key_id": "ab50f7f89068012b1f79a5de47761e51896e6cc5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5ga2LkivEYKcf\nhR4MLeq0ZVwLXkHyZ/dKjdbkQ+kG0kEVHduiDUsTLmvcYa1+bKoGnC+hClbl4aXq\n4v5Hiuc8JNlM27CLxnIHf531BWhI+XyQfOtLGFPqdkoES5+PutJ+5/xIlFUGBqEa\nQbIYNGKSPXe8mtiiuUN9r+GEj4SzRu7O+n3wpdyWUubBZ6V+g2fOHtPSv4+GvTK6\ncbauS1TBZ5IDmSI67uf1TOQrWSO2i6f5TUnAb2GZRKDjWSFGB9OFhOE0mEr3ggU/\n20TQEPTqohvW3qcgn0F7NsdHaqjee5IACtyQYFVGmIxy8LIp3nrTCeFJ8r8kd1Of\ngdUc0BrVAgMBAAECggEACcqnwah5QXAVmjMRUzTAQP3hpiL3SaeFtMx4VYulGuxR\nrZ7qFytq9Uv7uwH34aa0Mc2gMPil/hPTSWrqX5XcHz9VrfohnzseDTnF+Wcr6kAq\n/EhvtgLGeSd9wCzKsxA6KKMvnJghxcPnUIa7sw3ezxfKAG1O9oXfY1y7g1788uZ6\nU8nx7X5JQ/kf2TUvwGyQINnHGRQu2HQ2oZ4iM9plnsakasI2cE8VyFqpSPVBmYSe\n8T/EvxJ4vZJ4/VRDRx+xJ6MHQbplsjpJ8VtY/0liOpGMnkasuZtqcsBC4mPOEkRi\nOiHfcv9kY4GOOVX16VNegPioJAwY2Jc6eqspUP5J2QKBgQDgtibYgrcEdQMdfjE8\njjWKm/gxd17oDzpX96UOzWXQyvTuqlXQRUACPhqbhMiaH/mSyAU63rSlieLo+CBO\naIeoEm8dwtvkoC7vj+1G/pPAzVeg9/XISKOB9DiDTN9C41R6WFdZ0H9TNlKOnPdm\n5ClYKIXSHCiLWwI1O43FgJdbaQKBgQDTVhBVFWhlXfKu6S75uGOUmpjAvxPqyEOh\nQOIq2VJ9Mm1xiFH6GKYHTLVHqUf9g67kVzYvtuuSq3p35rBjdbronh+h5rnCfGbj\nBTeB2dLJ4m/R5PmO9Bg8XEuuxkPNSTZWdxdkatKRLWE6ByxSAQd1owxLEgVECRiI\nr98eaw5yjQKBgGkF+SXcAfm9TpVsM0rgFDoSJ2/HIL5Iz7XpcmV2rg1lrhAV4EGU\n/BOQPxNMfg06wIRPo9Id4EQ2K61CuqaqyCxPYUuBlRBHpWgl1noF5byIvFnpSiAv\nguvr3rXPKdGzOfpsa3b4sWmMzA0HY8HdBU3Esra+nlxzTpbenKYgMZ1xAoGAPq9F\ncudBqud951G1JE8EAn0EmA9VKguyu67SJuGFLSt6+PT1U9hhzsJ69sGIX/LiOkqA\nAREhuMRyNARSB35RLVRRj6UvLjfWELpoZ3SjqEwo3LotJ7DRS34Y2MNoMwjnPChg\n4OEqifNK5npgNAaoHsV5DP9QXojQJSL9bDlW9LUCgYAqtKk5282OJc5UdpOSYnRq\n+ODMZTh4hAzCGMsHF7tO+XgvsPd5ElSt0IGgZGUHhZ0eiz/Micn4U8ASRlr3ruwT\nqyZ2wSj0GCs5i1dxCYzriEQQGyVygNj3cr1ggiGTT5qJAlqD6MqXZDyu526rLOxP\nGf/BaGlVeKTXLw9L7Ij44A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "serverless-framework@mr-sinister.iam.gserviceaccount.com",
+  "client_id": "117749030379097968077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serverless-framework%40mr-sinister.iam.gserviceaccount.com"
+}
