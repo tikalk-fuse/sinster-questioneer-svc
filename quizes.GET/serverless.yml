@@ -1,28 +1,29 @@
-service: gcf-nodejs # NOTE: Don't put the word "google" in here
+service: gcf-nodejs
 
 provider:
   name: google
   runtime: nodejs
   project: mr-sinister
-  credentials: ~/.gcloud/keyfile-fuse2018.json
+  # the path to the credentials file needs to be absolute
+  credentials: ../keyfile-fuse2018.json
 
 plugins:
   - serverless-google-cloudfunctions
 
-# needs more granular excluding in production as only the serverless provider npm
-# package should be excluded (and not the whole node_modules directory)
 package:
   exclude:
     - node_modules/**
     - .gitignore
     - .git/**
+    - test
+    - cover
 
 functions:
-  first:
-    handler: http
+  quizes:
+    handler: quizes
     events:
       - http: path
-
+        
   # NOTE: the following uses an "event" event (pubSub event in this case).
   # Please create the corresponding resources in the Google Cloud
   # before deploying this service through Serverless
