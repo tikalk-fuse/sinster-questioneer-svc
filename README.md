@@ -1,6 +1,6 @@
 # sinster-questioneer-svc
 
-> Tikal Fuse Feb 2018 - Mr. Sinister group!
+> Tikal Fuse 20 Feb 2018 - Mr. Sinister group!
 
 ## Installation
 
