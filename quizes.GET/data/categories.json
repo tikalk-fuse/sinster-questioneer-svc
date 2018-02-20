@@ -1,0 +1,153 @@
+{ 
+  "food": {
+    "name": "Food & Drink",
+    "id": "food",
+    "theme": "green",
+    "quizzes": [
+      {
+        "question": "Name the Italian, semi-soft, rich cheese with blue veins through it.",
+        "options": [
+          "Ricotta",
+          "Blue Cheese",
+          "Gorgonzola",
+          "Parmesan"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "What crop does the Colorado Beetle attack?",
+        "options": [
+          "Corn",
+          "Garlic",
+          "Potato",
+          "Wheat"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "In Which city was chop suey invented?",
+        "options": [
+          "Hong Kong",
+          "Taipei",
+          "New York",
+          "San Francisco"
+        ],
+        "answer": [3]
+      },
+      {
+        "question": "What is the correct name for a cluster or bunch of bananas?",
+        "options": [
+          "Foot",
+          "Hand",
+          "Flock",
+          "Pod"
+        ],
+        "answer": [1]
+      }
+    ]
+  },
+  "knowledge": {
+    "name": "General Knowledge",
+    "id": "knowledge",
+    "theme": "yellow",
+    "quizzes": [
+      {
+        "question": "What is the name of the famous art deco skyscraper in New York City?",
+        "options": [
+          "Trump Tower",
+          "Chrysler building",
+          "Empire State Building",
+          "The New York Times Building"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Who is one of “The Three Musketeers”?",
+        "options": [
+          "Chevy",
+          "Topeka",
+          "Athos",
+          "John Felton"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Which is the correct translation of Zorro?",
+        "options": [
+          "Dog",
+          "Sword",
+          "Fox",
+          "Coyote"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Which 1971 film, known for its violence, was the first to use Dolby sound?",
+        "options": [
+          "Straw Dogs",
+          "Dirty Harry",
+          "A Clockwork Orange",
+          "Play Misty for me"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Four of the worst ten maritime disasters all took place in 1945. In which sea were all four ships sunk?",
+        "options": [
+          "Mediterranean sea",
+          "Baltic Sea",
+          "The Bermuda Triangle",
+          "Black Sea"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "What nut is used to flavor marzipan?",
+        "options": [
+          "Walnut",
+          "Almond",
+          "Cashew",
+          "Pistachio"
+        ],
+        "answer": [1]
+      }
+    ]
+  },
+  "history": {
+    "name": "History",
+    "id": "history",
+    "theme": "blue",
+    "quizzes": [
+      {
+        "question": "What U.S. President committed an unpardonable sin by kissing the Queen Mother on the lips?",
+        "options": [
+          "George W. Bush",
+          "Jimmy Carter",
+          "Barack Obama",
+          "Lyndon B. Johnson"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Joan of Arc, in the 15th century, was the first female promoted to this rank in the French army:",
+        "options": [
+          "Lieutenant",
+          "Sergeant",
+          "General",
+          "Captain"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "On which island was Napoleon born?",
+        "options": [
+          "Sardinia",
+          "Corsica",
+          "Tahiti",
+          "Réunion"
+        ],
+        "answer": [1]
+      }
+    ]
+  }
+}
